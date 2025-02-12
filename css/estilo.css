@@ -1,0 +1,83 @@
+.pai{
+	width: 100%;
+	height: 150vh;
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+	font-family: times new roman;
+}
+
+#ti{
+	text-decoration: none;
+	color: black;
+}
+.filho2{
+	background-color: gray;
+	display: flex;
+	height: 8vh;
+	width: 100%;
+	justify-content: space-around;
+}
+.filho3{
+	background-color: white;
+	display: flex;
+	height: 35vh;
+	width: 100%;
+	flex-direction: row; 	
+	justify-content: space-around;
+}
+iframe{
+	margin-top: 2vh;
+}
+.quad{
+	background-color: lightgray;
+	border-radius: 1.25vh;
+	height: 30vh;
+	width: 35vh;
+	margin-top: 2vh;
+	text-align: center;
+}
+.filho4{
+	margin-top: 5vh;
+	background-color: lightgray;
+	border-radius: 2vh;
+	height: 40vh;
+	width: 67%;
+}
+.filho5{
+	background-color: darkgray;
+	width: 100%;
+	height: 45vh;
+	margin-top: 3vh;
+	display: flex;
+	justify-content: space-around;
+}
+strong{
+	font-size: 2.3vh;
+}
+.q1, .q2, .q3, .q4{
+	margin-top: 5vh;
+	background-color: white;
+	height: 35vh;
+	width: 37vh;
+	border-radius: 2vh;
+	text-align: center;
+}
+#pdw{
+	 font-size: 3vh;
+}
+#end{
+	font-size: 3vh;
+}
+#mat{
+	font-size: 3vh;
+}
+#pot{
+	font-size: 3vh;
+}
+.rodape{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 2.3vh;
+}
